@@ -21,9 +21,9 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "박상균"
 description              : "모각코는 처음이라 대표 블로그 입니다."
-url                      : "https://sanggyunbak2856.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://sanggyunbak2856.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "sanggyunbak2856/sanggyunbak2856.github.io"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "sanggyunbak2856/sanggyunbak2856.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "모각코" # overrides the website title displayed in the masthead, use " " for no title
@@ -93,11 +93,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "박상균"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "2020 동계 모각코 [모각코는 처음이라]"
+  location         : "Republic of Korea"
+  email            : "psw759@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
