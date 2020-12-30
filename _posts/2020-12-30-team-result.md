@@ -16,4 +16,4 @@ last_modified_at: 2020-12-30
 박상균 : [https://sanggyunbak2856.github.io/2020%20winter%20private/result/](https://sanggyunbak2856.github.io/2020%20winter%20private/result/)  
 황근영 : [https://thedoorisonyourleft.github.io/mogakco/2020/12/26/Mogakco_1_finish.html](https://thedoorisonyourleft.github.io/mogakco/2020/12/26/Mogakco_1_finish.html)  
 김정현 : [https://blog.naver.com/colories/222186123594](https://blog.naver.com/colories/222186123594)  
-정다윤 : [https://blog.naver.com/PostView.nhn?blogId=ekdbs6963&Redirect=View&logNo=222186076164&categoryNo=7&isAfterWrite=true&isMrblogPost=false&isHappyBeanLeverage=true&contentLength=11680](https://blog.naver.com/PostView.nhn?blogId=ekdbs6963&Redirect=View&logNo=222186076164&categoryNo=7&isAfterWrite=true&isMrblogPost=false&isHappyBeanLeverage=true&contentLength=11680)  
+정다윤 : [https://blog.naver.com/ekdbs6963/222190597554](https://blog.naver.com/PostView.nhn?blogId=ekdbs6963&Redirect=View&logNo=222186076164&categoryNo=7&isAfterWrite=true&isMrblogPost=false&isHappyBeanLeverage=true&contentLength=11680)  
